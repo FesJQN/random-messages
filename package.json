@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "npm-random-messages-23",
   "version": "1.0.0",
   "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
@@ -15,9 +15,18 @@
   "license": "MIT",
   "bin": {
     "random-msg": "./bin/global.js"
-  },
+  },  
   "preferGlobal": true,
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FesJQN/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FesJQN/random-messages/issues"
+  },
+  "homepage": "https://github.com/FesJQN/random-messages#readme"
 }
